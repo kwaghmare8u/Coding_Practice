@@ -1,3 +1,5 @@
+package LinkedList;
+
 import java.util.Stack;
 
 public class Palindrome {
@@ -35,7 +37,7 @@ public class Palindrome {
         nodeC.ptr = nodeD;
         nodeD.ptr = nodeE;
 
-        System.out.println("Palindrome : " + isPalindrome(nodeA));
+        System.out.println("LinkedList.Palindrome : " + isPalindrome(nodeA));
     }
 }
 

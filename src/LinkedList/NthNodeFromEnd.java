@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class NthNodeFromEnd {
 
     Node head;
